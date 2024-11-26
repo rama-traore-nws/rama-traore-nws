@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Bonjour, moi, c'est Rama! 👩🏾‍🎨
 <!--
 **rama-traore-nws/rama-traore-nws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,8 +10,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+ 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#  Je suis actuellement étudiante en première année de Bachelor Chef de projet digital à la Normandie Web School.
-#Passionnée par l'art en général, le projet idéal pour moi a toujours été de travailler dans le graphisme.
+Je suis actuellement étudiante en première année de Bachelor Chef de projet digital à la Normandie Web School🎓.
+
+Passionnée par l'art en général, le projet idéal pour moi a toujours été de travailler dans le graphisme 🎨👩‍💻.
+
+Pour en apprendre plus sur moi, fais un tour sur mon linkedin ci-dessous ⬇️!!
+
+https://www.linkedin.com/in/rama-traoré/
