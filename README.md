@@ -1,22 +1,14 @@
-# Bonjour, moi, c'est Rama! 👩🏾‍🎨
-<!--
-**rama-traore-nws/rama-traore-nws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Bonjour, Moi, C'est Rama Traoré!</h1>
+</main>Vous avez besoin d’aide en dessin? Vous ne savez pas par où commencer dans la poterie? Vous voulez essayer le tricot? Ou vous aimez juste l’art tout comme moi? Alors vous avez trouvé la bonne personne!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Je suis actuellement étudiante en première année de Bachelor Chef de projet digital à la Normandie Web School🎓.
+Je suis Rama Traoré et je suis très curieuse dans le domaine de l’art. Lorsqu’il s’agit de donner des conseils, d’en recevoir ou encore d’aider les personnes dans le besoin, faites appel à moi. 
 
-Passionnée par l'art en général, le projet idéal pour moi a toujours été de travailler dans le graphisme 🎨👩‍💻.
 
-Pour en apprendre plus sur moi, fais un tour sur mon linkedin ci-dessous ⬇️!!
+Mon bénévolat à l’armée du Salut et à la SHPA m’a beaucoup ouvert l’esprit sur les enjeux que les animaux et les personnes peuvent rencontrer et cela m’a encore plus donné envie de les aider à mon échelle avec mon art (durant mes années de collège.)
 
-https://www.linkedin.com/in/rama-traoré/
+
+Je n’étais pas voué à l’art “scolaire” mais à l’art… , je reconnais ma valeur aujourd’hui et me voila avec plus de projets et d’être plus que jamais déterminée et motivée à les réaliser. 
+
+
+Mon rêve depuis à toujours été d’être dans une profession qui me parle,  qui est liée avec ma passion. Puis comme l’a dit Walt Disney: “Si tu peux le rêver, tu peux le faire”.
