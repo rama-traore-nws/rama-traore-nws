@@ -12,7 +12,7 @@
 
 # Bonjour!!
 
-_Présentation 😁_
+_Quelques mots à propos de moi😁_
 
 </header>
 
@@ -28,7 +28,7 @@ _Présentation 😁_
 
 
 Vous avez besoin d’aide en dessin? Vous ne savez pas par où commencer dans la poterie? Vous voulez essayer le tricot? Ou vous aimez juste l’art tout comme moi? Alors vous avez trouvé la bonne personne ‼️
-
+<h2>Présentation</h2>
 Je suis Rama Traoré et je suis très curieuse dans le domaine de l’art. Lorsqu’il s’agit de donner des conseils, d’en recevoir ou encore d’aider les personnes dans le besoin, faites appel à moi.
 <h2>Expériences Bénévoles⛑</h2>
 * Mon bénévolat à l’armée du Salut et à la SHPA m’a beaucoup ouvert l’esprit sur les enjeux que les animaux et les personnes peuvent rencontrer et cela m’a encore plus donné envie de les aider à mon échelle avec mon art (durant mes années de collège.) 🦾
