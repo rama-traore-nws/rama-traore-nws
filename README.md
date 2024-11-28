@@ -24,7 +24,7 @@ _Quelques mots à propos de moi😁_
   Encourage users to open new tabs for steps!
 -->
 
-<h1>Introduction</h1>
+<h2>Introduction</h2>
 
 
 Vous avez besoin d’aide en dessin? Vous ne savez pas par où commencer dans la poterie? Vous voulez essayer le tricot? Ou vous aimez juste l’art tout comme moi? Alors vous avez trouvé la bonne personne ‼️
