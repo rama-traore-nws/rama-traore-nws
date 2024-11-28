@@ -48,7 +48,7 @@ Mon rêve depuis à toujours été d’être dans une profession qui me parle, q
 
 ---
 
-<strong>Pour en apprendre plus sur mes projets, voici le lien de mon compte linkedin😉: [Linkedin](https://www.linkedin.com/in/rama-traoré/) &bull;
+<strong>Pour en apprendre plus sur mes projets, voici le lien de mon compte linkedin⬇️: [Linkedin](https://www.linkedin.com/in/rama-traoré/) &bull;
 
 </footer>
 
